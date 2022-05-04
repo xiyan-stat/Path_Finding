@@ -1,6 +1,5 @@
 '''
 Compare Dijkstra's algorithm and A star algorithm in grid map which conatins different typies of terrain.
-Python version: 3.5.0
 This script contain 4 sections:
    section 1. class: PriorityQueue, Graph, gridMap
    section 2. function: SearchforPath, reconstruct_path, heuristic_cost_estimate, plotresult
